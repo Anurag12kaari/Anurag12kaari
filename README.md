@@ -1,6 +1,6 @@
 
 
-# 👋 Hello, I'm Anurag Kaari!  
+# 👋 Hello, I'm Anurag!  
 
 ## 🚀 About Me  
 🌟 **Driven Innovator** | 💻 **Tech Enthusiast** | 🎓 **Lifelong Learner**
