@@ -32,7 +32,7 @@
 ## 📫 How to Reach Me  
 📧 Email: ad9973@srmist.edu.in 
 💼 LinkedIn: https://www.linkedin.com/in/anurag-dutta-491643256/ 
-🌐 Portfolio: [Your Website/Portfolio Link]
+🌐 Portfolio: https://anurag12kaari.github.io/Portfolio/
 
 ---
 
