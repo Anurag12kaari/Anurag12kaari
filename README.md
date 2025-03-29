@@ -3,8 +3,8 @@
 
 ## 🚀 About Me  
 🌟 **Driven Innovator** | 💻 **Tech Enthusiast** | 🎓 **Lifelong Learner**  
-💻 **Current GitHub Streak:** 🔥 **XX-day streak** (keep this updated!)  
-🏆 **Total Contributions:** **XXXX+**  
+💻 **Current GitHub Streak:** 🔥 **10-day streak**   
+🏆 **Total Contributions:** **30+**  
 ---
 ## 👀 Interests  
 - ✨ Exploring cutting-edge technologies  
