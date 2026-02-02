@@ -2,6 +2,7 @@
 I’m a Computer Science student passionate about full-stack development, iOS apps, and scalable backend systems. I enjoy building real-world products using React, Node.js, SwiftUI, and cloud technologies, and I’m currently learning system design and DevOps. Always open to collaborating on impactful projects and open-source contributions.<br>
 
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anurag-dutta-491643256/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anuragdutta2004@gmail.com) 
 
